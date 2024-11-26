@@ -96,5 +96,3 @@ The generated file will have the following structure:
 
 // ... additional files
 ```
-
-[Rest of the README remains the same...]
